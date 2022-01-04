@@ -1,0 +1,47 @@
+Exchange,BINANCE,,,
+Timeframe (Interval),1,,,
+Chart Base URL,https://www.tradingview.com/chart/AtET9kLf/,,,
+Symbols,41,,,
+,,,,
+ID,Base Currency,Quote Currency,Contract Type,Unique URL
+1,1000SHIB,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:1000SHIBUSDTPERP&interval=1
+2,ADA,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:ADAUSDTPERP&interval=1
+3,ALGO,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:ALGOUSDTPERP&interval=1
+4,ALICE,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:ALICEUSDTPERP&interval=1
+5,ATOM,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:ATOMUSDTPERP&interval=1
+6,AVAX,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:AVAXUSDTPERP&interval=1
+7,AXS,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:AXSUSDTPERP&interval=1
+8,BEL,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:BELUSDTPERP&interval=1
+9,BTC,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:BTCUSDTPERP&interval=1
+10,C98,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:C98USDTPERP&interval=1
+11,CHR,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:CHRUSDTPERP&interval=1
+12,COTI,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:COTIUSDTPERP&interval=1
+13,CRV,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:CRVUSDTPERP&interval=1
+14,CTK,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:CTKUSDTPERP&interval=1
+15,DOGE,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:DOGEUSDTPERP&interval=1
+16,DOT,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:DOTUSDTPERP&interval=1
+17,EGLD,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:EGLDUSDTPERP&interval=1
+18,EOS,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:EOSUSDTPERP&interval=1
+19,ETH,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:ETHUSDTPERP&interval=1
+20,FIL,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:FILUSDTPERP&interval=1
+21,FTM,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:FTMUSDTPERP&interval=1
+22,GRT,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:GRTUSDTPERP&interval=1
+23,ICP,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:ICPUSDTPERP&interval=1
+24,KSM,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:KSMUSDTPERP&interval=1
+25,LINK,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:LINKUSDTPERP&interval=1
+26,LUNA,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:LUNAUSDTPERP&interval=1
+27,NEAR,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:NEARUSDTPERP&interval=1
+28,NEO,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:NEOUSDTPERP&interval=1
+29,OMG,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:OMGUSDTPERP&interval=1
+30,RAY,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:RAYUSDTPERP&interval=1
+31,REN,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:RENUSDTPERP&interval=1
+32,RSR,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:RSRUSDTPERP&interval=1
+33,RUNE,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:RUNEUSDTPERP&interval=1
+34,SNX,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:SNXUSDTPERP&interval=1
+35,SOL,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:SOLUSDTPERP&interval=1
+36,SRM,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:SRMUSDTPERP&interval=1
+37,SXP,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:SXPUSDTPERP&interval=1
+38,TLM,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:TLMUSDTPERP&interval=1
+39,UNI,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:UNIUSDTPERP&interval=1
+40,XRP,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:XRPUSDTPERP&interval=1
+41,XTZ,USDT,PERP,https://www.tradingview.com/chart/AtET9kLf/?symbol=BINANCE:XTZUSDTPERP&interval=1
