@@ -14,7 +14,7 @@ driver = webdriver.Chrome('chromedriver.exe')
 driver.maximize_window()
 driver.get("url")
 link = driver.find_element_by_css_selector('div[class=''] button[class='']')
-link.clcik()
+link.click()
 
 res = BeautifulSoup(driver.page_source, 'html.parser')
 urls = res.find_all('a', {'class':''})

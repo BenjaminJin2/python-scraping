@@ -7,7 +7,7 @@ from datetime import datetime
 import openpyxl
 import shutil
 #link to web driver
-driver = webdriver.Chrome('C:/Users/Administrator/Desktop/TVTradesGrabber/chromedriver.exe')
+driver = webdriver.Chrome('chromedriver.exe')
 url = 'https://www.tradingview.com/'
 driver.get(url)
 driver.maximize_window()
