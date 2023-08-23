@@ -1,0 +1,16 @@
+{
+  "name": "create account assist",
+  "description": "I will help to create account",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+  },
+  "host_permissions": [],
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches":  ["https://www.fakexy.com/"],
+      "js": ["scripts.js"]
+    }
+  ]
+}
